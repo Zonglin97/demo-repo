@@ -1,11 +1,11 @@
-# Demo
+# Chatbot Concierge #
 
-Some description!
+## About ##
 
-## Subheader
+This is hw1 individually completed by Zonglin Li for COMS 6998 Cloud Computing & Big Data class at Columbia University
 
-Watch tutorial on YouTube
+## Note ##
 
-## Local Development
+The yelp scrapping model is included in Data_process/yelp_api_dynamo.py and Data_process/yelp_api_es.pi
 
-1. Open index.html in your browser.
+Thank you!!!!
